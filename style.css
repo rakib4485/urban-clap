@@ -1,0 +1,192 @@
+body{
+    background: #F0F0F0;
+}
+.nav{
+    background-color: black;
+}
+
+
+.nav-left{
+    display: flex;
+}
+
+.nav-left a{
+    margin-left: 10px;
+    text-align: center;
+    /* margin: 20px; */
+    padding-left: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.nav-right ul li{
+    list-style-type: none;
+    float: left;
+}
+.nav-right a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.home-sec{
+    color: #fff;
+    /* font-weight: bold; */
+}
+.home{
+    height: 100%;
+    width: 100%;
+    background-image: url('image/bg-main.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* padding-top: 50px; */
+    margin-top: 70px;
+}
+.bg-left{
+    color: black;
+    font-weight: bold;
+}
+/* .bg-right{
+    margin-top: 70px;
+    height: 550px;
+    width: 100%;
+    background-color: black; 
+} */
+.home-div{
+    margin-top: 80px;
+    margin-left: 40px;
+}
+.home-title{
+    font-size: large;
+    letter-spacing: 5px;
+}
+.home-sub{
+    /* font-size: large; */
+    font-weight: bold;
+}
+.home-text{
+    font-size: 20px;
+    
+}
+.home-country{
+    height: 120px;
+    width:300px;
+    background: #fff;
+    border: 1px solid #fff;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.home-country select{
+    height: 40px;
+    width: 80%;
+    border-radius: 20px;
+}
+.about {
+    padding-top: 100px;
+    background-color:#fff;
+}
+.about-left-main img{
+    height: 400px;
+    width: 100%;
+}
+.contract{
+    height: 100%;
+    width: 100%;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    background-image: url('image/about-right-main.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contract-title{
+    padding-top: 70px;
+}
+.call-icon{
+    height: 60px;
+    width: 60px;
+}
+/* .country-text{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.country-select{
+    height: 40px;
+    width: 90%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.booking-title{
+    margin-top: 60px;
+    font-weight: bold;
+}
+.booking-sub{
+    font-size: 20px;
+    color: #757575;
+}
+.b-contract{
+   height: 28px;
+   width: 302px;
+   border: 1px solid #757575;
+   border-radius: 5px;
+   margin-top: 30px;
+}
+.b-contract input{
+    border: none;
+}
+.b-contract select{
+    border: none;
+}
+.b-contract button{
+    border: none;
+    background-color: black;
+    color: #fff;
+} */
+.call-div{
+    margin-top: 50px;
+}
+.footer{
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: -16px;
+    /* padding-top: 30px; */
+    padding-bottom: 40px;
+}
+.footer-1{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.f-common{
+    margin-top: 20px;
+}
+.f-common a{
+    margin-left: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.footer-icon{
+    position: absolute;
+    right: 0
+}
+.footer-icon a{
+    margin-left: 10px;
+    ;
+}
+/* .footer-7{
+    display: flex;
+    margin-top: 20px;
+    padding-bottom: 30px;
+} */
